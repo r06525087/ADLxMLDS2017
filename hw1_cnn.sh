@@ -1,0 +1,1 @@
+python hw1_cnn.py $1 $2
